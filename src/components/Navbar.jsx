@@ -21,7 +21,6 @@ function Navbar() {
                 <li><Link to='subscribe'>News</Link></li>
                 <li><Link to='#'>Contact</Link></li>
             </ul>
-            <Link to='#' className='hey'>Profile</Link>
 
         </nav>
       

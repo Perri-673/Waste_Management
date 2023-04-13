@@ -8,7 +8,7 @@ function Header() {
             <h1>It's a <span>Waste</span> Management Website</h1>
             <p className='details'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maiores magnam sunt fugiat provident vel dolor modi quibusdam ut deleniti totam!</p>
             <div className='header-btns'>
-                <a href='#' className='cv-btn'>Profile</a>
+                <a href='https://wastemanagementprofile.netlify.app/' target="_blank" className='cv-btn'>Profile</a>
                 <a href='#' className='cv-btn1'>Download App</a>
             </div>
         </div>
